@@ -14,8 +14,9 @@ sum of digits
 voting
 LCM and GCD
 15th program
+alpabetical order
 
 *compiled in devc++
 
 Total programs:15
-completed programs:14
+completed programs:15

@@ -20,3 +20,17 @@ alpabetical order
 
 Total programs:15
 completed programs:15
+
+
+DAY 2
+
+addition subraction
+area 
+employee info
+single dimension
+swap 2 numbers
+
+*compiled in devc++
+
+Total programs:15
+Completed program:05

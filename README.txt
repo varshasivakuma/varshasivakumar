@@ -13,8 +13,9 @@ reverse the word
 sum of digits
 voting
 LCM and GCD
+15th program
 
 *compiled in devc++
 
 Total programs:15
-completed programs:13
+completed programs:14
